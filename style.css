@@ -1,0 +1,16 @@
+.bg-color{
+    background: linear-gradient(red,chocolate,brown);
+  
+}
+body{
+    background-color: chocolate;
+}
+h1,h3,p{
+    margin: 10px;
+    text-align: justify;
+}
+span{
+   color: yellow;
+    font-weight: 900;
+}
+
