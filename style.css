@@ -40,9 +40,11 @@ textarea{
 }
 
 #para{
-  font-size: 2rem;
+  font-size: 1rem;
   color: white;
+    font-weight:60;
 }
+
 i{
   color: white;
   font-size: 1.5rem;
